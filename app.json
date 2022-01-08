@@ -13,7 +13,7 @@
     "repository": "https://github.com/Ns-AnoNymouS/Renamer",
     "stack": "heroku-20",
     "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "success_url": "https://github.com/Iamsreerag/MCRENAMER-BOT",
 
     "env": {
         "API_HASH": {
